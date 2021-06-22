@@ -1,2 +1,2 @@
 # raspberry-pi-docs
-Cool tricks and fixed for raspberry pis
+Cool tricks and fixes for raspberry pis
